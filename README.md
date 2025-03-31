@@ -18,6 +18,10 @@ It is time to use the `UI` you built in the previous project and:
 3. Once logged-in, going to `/recipes` from your `frontend`, the user should see
    all the recipes from the `backend`.
 
+> [!NOTE]
+> You must ensure there is a `/recipes` route on your backend which is also `PROTECTED`and
+> only `logg-in` users can access!
+
 > [!IMPORTANT]
 > Use [react-router](https://reactrouter.com/) to create a SPA.
 > `http://localhost:5173/register`, `http://localhost:5173/login`
