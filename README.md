@@ -20,7 +20,7 @@ It is time to use the `UI` you built in the previous project and:
 
 > [!NOTE]
 > You must ensure there is a `/recipes` route on your backend which is also `PROTECTED`and
-> only `logg-in` users can access!
+> only `logged-in` users can access!
 
 > [!IMPORTANT]
 > Use [react-router](https://reactrouter.com/) to create a SPA.
